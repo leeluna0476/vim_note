@@ -44,7 +44,6 @@
 <summary>편집 모드</summary>
 <div markdown="1">
 
-### 편집 모드
 - i -> 커서가 위치한 곳으로 편집 모드 진입.
 - I -> 커서가 위치한 라인에서 첫 글자(공백은 포함 X)로 이동 후 편집 모드 진입.
 - s -> 커서가 위치한 곳의 문자를 지우고 편집 모드 진입.
@@ -56,12 +55,21 @@
 </div>
 </details>
 
-## 선택 모드 (Visual mode)
+<details>
+<summary>선택 모드</summary>
+<div markdown="1">
+
 - v: 선택 모드 진입. (Visual mode)
 - V: 줄 선택 모드 진입. (Visual line mode)
 - Ctrl+V: 블록 선택 모드 진입. (Visual block mode)
 
-## 복사, 잘라내기, 붙여넣기
+</div>
+</details>
+
+<details>
+<summary>선택 모드</summary>
+<div markdown="1">
+
 - y: 복사
  - yy: 한 줄 복사.
 - d: 잘라내기
@@ -74,3 +82,6 @@
 -> Visual mode에서 원하는 만큼 선택을 한 뒤 y를 눌러 복사, 원하는 위치로 이동 후 p로 붙여넣기 등.
 -> Visual line mode에서 원하는 라인을 전부 선택한 뒤 한꺼번에 여러 줄 삭제(잘라내기를 응용).
 -> 기타 등등. (실습으로 다양한 조합을 찾아내보자.)
+
+</div>
+</details>
