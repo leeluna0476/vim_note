@@ -1,2 +1,2 @@
 # How to VIM?
-## [1. Basics](basics.md)
+- [1. Basics](basics.md)
