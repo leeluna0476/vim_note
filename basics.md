@@ -30,6 +30,7 @@
 </div>
 </details>
 
+## 명령 모드
 <details>
 <summary>명령 모드</summary>
 <div markdown="1">
@@ -39,6 +40,7 @@
 </div>
 </details>
 
+## 편집 모드
 <details>
 <summary>편집 모드</summary>
 <div markdown="1">
@@ -54,6 +56,7 @@
 </div>
 </details>
 
+## 선택 모드
 <details>
 <summary>선택 모드</summary>
 <div markdown="1">
@@ -65,6 +68,7 @@
 </div>
 </details>
 
+## 복사, 잘라내기, 붙여넣기
 <details>
 <summary>복사, 잘라내기, 붙여넣기</summary>
 <div markdown="1">
