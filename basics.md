@@ -4,16 +4,19 @@
 <details>
 <summary>글자 단위</summary>
 <div markdown="1">
+
 - h: left
 - j: down
 - k: up
 - l: right
+
 </div>
 </details>
 
 <details>
 <summary>단어 단위</summary>
 <div markdown="1">
+
 - 단어의 시작 글자 기준:
  - w: right
   - W: 공백 기준.
@@ -23,6 +26,7 @@
 - 단어의 끝 글자 기준:
  - e: right
   - E: 공백 기준.
+
 </div>
 </details>
 
