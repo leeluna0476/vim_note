@@ -31,8 +31,18 @@
 </details>
 
 ## 명령 모드, 편집 모드
-'명령 모드 진입'
+<details>
+<summary>명령 모드</summary>
+<div markdown="1">
+
 - ESC or Ctrl+[
+
+</div>
+</details>
+
+<details>
+<summary>편집 모드</summary>
+<div markdown="1">
 
 ### 편집 모드
 - i -> 커서가 위치한 곳으로 편집 모드 진입.
@@ -42,6 +52,9 @@
 - O -> 커서가 위치한 라인에서 위쪽으로 한 줄 띄우고 편집 모드 진입.
 - a -> 커서가 위치한 곳 다음 문자로 편집 모드 진입.
 - A -> 커서가 위치한 라인 맨 끝 문자의 다음 문자로 편집 모드 진입.
+
+</div>
+</details>
 
 ## 선택 모드 (Visual mode)
 - v: 선택 모드 진입. (Visual mode)
