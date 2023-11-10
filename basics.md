@@ -1,6 +1,5 @@
-# How to VIM?
-## 1. [BASICS](basics.md)
-### 방향키
+# Basics
+## 방향키
 **글자 단위**
 - h: left
 - j: down
@@ -18,7 +17,7 @@
  - e: right
   - E: 공백 기준.
 
-### 명령 모드, 편집 모드
+## 명령 모드, 편집 모드
 '명령 모드 진입'
 - ESC or Ctrl+[
 
@@ -31,12 +30,12 @@
 - a -> 커서가 위치한 곳 다음 문자로 편집 모드 진입.
 - A -> 커서가 위치한 라인 맨 끝 문자의 다음 문자로 편집 모드 진입.
 
-### 선택 모드 (Visual mode)
+## 선택 모드 (Visual mode)
 - v: 선택 모드 진입. (Visual mode)
 - V: 줄 선택 모드 진입. (Visual line mode)
 - Ctrl+V: 블록 선택 모드 진입. (Visual block mode)
 
-### 복사, 잘라내기, 붙여넣기
+## 복사, 잘라내기, 붙여넣기
 - y: 복사
  - yy: 한 줄 복사.
 - d: 잘라내기
