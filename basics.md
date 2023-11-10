@@ -1,4 +1,8 @@
 # Basics
+<details>
+<summary>방향</summary>
+<div markdown="1">
+
 ## 방향키
 ### 글자 단위
 - h: left
@@ -16,6 +20,9 @@
 - 단어의 끝 글자 기준:
  - e: right
   - E: 공백 기준.
+
+</div>
+</details>
 
 ## 명령 모드, 편집 모드
 '명령 모드 진입'
