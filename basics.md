@@ -17,14 +17,14 @@
 <div markdown="1">
 
 - 단어의 시작 글자 기준:
- - w: right
-  - W: 공백 기준.
- - b: left
-  - B: 공백 기준.
+  - w: right
+   - W: 공백 기준.
+  - b: left
+   - B: 공백 기준.
 
 - 단어의 끝 글자 기준:
- - e: right
-  - E: 공백 기준.
+  - e: right
+   - E: 공백 기준.
 
 </div>
 </details>
