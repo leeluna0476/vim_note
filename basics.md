@@ -1,8 +1,7 @@
 # Basics
 
-## 방향키
 <details>
-<summary>글자 단위</summary>
+<summary>방향키 - 글자 단위</summary>
 <div markdown="1">
 
 - h: left
@@ -14,7 +13,7 @@
 </details>
 
 <details>
-<summary>단어 단위</summary>
+<summary>방향키 - 단어 단위</summary>
 <div markdown="1">
 
 - 단어의 시작 글자 기준:
@@ -30,6 +29,8 @@
 </div>
 </details>
 
+---
+
 <details>
 <summary>명령 모드</summary>
 <div markdown="1">
@@ -38,6 +39,8 @@
 
 </div>
 </details>
+
+---
 
 <details>
 <summary>편집 모드</summary>
@@ -54,6 +57,8 @@
 </div>
 </details>
 
+---
+
 <details>
 <summary>선택 모드</summary>
 <div markdown="1">
@@ -64,6 +69,8 @@
 
 </div>
 </details>
+
+---
 
 <details>
 <summary>복사, 잘라내기, 붙여넣기</summary>
@@ -80,7 +87,7 @@
 - p: 아래로 붙여넣기
   - P(Shift+p): 위로 붙여넣기
 
-**응용**
+### 응용
 -> Visual mode에서 원하는 만큼 선택을 한 뒤 y를 눌러 복사, 원하는 위치로 이동 후 p로 붙여넣기 등.
 -> Visual mode에서 원하는 만큼 선택을 한 뒤 s를 눌러 지우고 바로 원하는 글자 입력하기 등.
 	-> Visual block mode에서 원하는 만큼 선택을 한 뒤 s를 눌러 지우고 바로 원하는 글자들로 한꺼번에 치환하기 등.
@@ -89,4 +96,3 @@
 
 </div>
 </details>
-
