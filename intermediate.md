@@ -36,6 +36,7 @@
 - Ctrl+w+|: 현재 윈도우를 수직으로 최대화.
 
 </div>
+</details>
 
 <details>
 <summary>윈도우 종료</summary>
