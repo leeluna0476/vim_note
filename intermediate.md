@@ -1,5 +1,8 @@
 # Intermediate
 
+## Shell commands
+- `!<command>`: <command> 대신 원하는 명령어를 입력. 예: `!ls`
+
 ## Terminal
 - `:terminal`, `:term`: 수평으로 분할된 터미널을 연다.
 - `:vertial terminal`, `:vert term`: 수직으로 분할된 터미널을 연다.
@@ -57,3 +60,7 @@
 
 </div>
 </details>
+
+## 그냥 꿀팁
+***(C언어 한정)***
+- 커서를 함수명 위에 두고 `K`(`shift+k`)를 입력하면 해당 함수의 manual을 열 수 있다. (man page)
