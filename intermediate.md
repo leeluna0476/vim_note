@@ -1,7 +1,7 @@
 # Intermediate
 
 ## Shell commands
-- `:!<command>`: <command> 대신 원하는 명령어를 입력. 예: `:!ls`
+- `:!<command>`: `<command>` 대신 원하는 명령어를 입력. 예: `:!ls`
 
 ## Terminals
 - `:terminal`, `:term`: 수평으로 분할된 터미널을 연다.
