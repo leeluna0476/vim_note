@@ -3,7 +3,7 @@
 ## Shell commands
 - `!<command>`: <command> 대신 원하는 명령어를 입력. 예: `!ls`
 
-## Terminal
+## Terminals
 - `:terminal`, `:term`: 수평으로 분할된 터미널을 연다.
 - `:vertial terminal`, `:vert term`: 수직으로 분할된 터미널을 연다.
 
