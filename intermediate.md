@@ -5,7 +5,7 @@
 
 ## Terminals
 - `:terminal`, `:term`: 수평으로 분할된 터미널을 연다.
-- `:vertial terminal`, `:vert term`: 수직으로 분할된 터미널을 연다.
+- `:vertical terminal`, `:vert term`: 수직으로 분할된 터미널을 연다.
 
 > 두 명령은 분할된 화면의 위/왼쪽에 열리는데, 아래/오른쪽에 열리게 하고 싶다면 `:set splitbelow`, `:set splitright` 명령을 선행하면 된다.
 
